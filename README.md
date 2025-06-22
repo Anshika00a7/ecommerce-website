@@ -1,3 +1,11 @@
-This e-commerce website is a fully responsive and interactive online shopping platform built using HTML, CSS, and JavaScript. It is designed to provide a seamless and engaging user experience for both desktop and mobile users. The site features a clean and modern interface with intuitive navigation that allows users to browse various product categories with ease.
+# E-Commerce Project
 
-The homepage highlights featured products, trending deals, and promotional banners using visually appealing layouts and animations powered by CSS and JavaScript. Product listings are displayed in grid format, with options to view product details, images, prices, and user ratings. Each product page offers an "Add to Cart" functionality, supported by JavaScript logic to dynamically update the shopping cart
+
+Hi, this project is a fully responsive e-commerce website project made only HTML, CSS and JavaScript.
+
+No framework or library (except glide.js) was used throughout the project.
+
+
+You can reach the live link of the project from the link below.
+
+Link : https://commerce-project.netlify.app/
